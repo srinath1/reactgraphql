@@ -1,6 +1,6 @@
 import * as firebase from 'firebase';
 var firebaseConfig = {
-	apiKey: 'AIzaSyD_kUJUT7c7LJdAX1spdPvE_rGFhK4ZCeQ',
+	apiKey: 'AIzaSyD_kUJUT7c7LJdAX1spdPvE_rGFQ',
 	authDomain: 'graphqlreactnode-b0f6c.firebaseapp.com',
 	databaseURL: 'https://graphqlreactnode-b0f6c.firebaseio.com',
 	projectId: 'graphqlreactnode-b0f6c',
